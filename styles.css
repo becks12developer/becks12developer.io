@@ -1,1 +1,8 @@
-
+   body{
+        font-family:arial,sans-serif;
+        text-align:center;
+        padding:50px;}
+      h1{
+        color:#333;}
+      p{
+        color:#555;}
