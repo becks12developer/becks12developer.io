@@ -48,18 +48,17 @@
 .project-container{
    display:flex;
    flex-wrap:wrap;
-   gap:1.5rem;
-   justify-content:center;}
+   gap:2rem;
+   justify-content:center;
+   padding:1rem;
+}
 
 .proj-article{
    background:#f9f9f9;
    border-radius:10px;
    box-shadow:0 4px 8px rgb(0 0 0 /0.1);
-   padding:1.5rem;
-   flex:1 1 280px;
-   max-width:320px;
-   transition: transform 0.3s ease, box-shadow 0.3s ease;
-   cusor:pointer;}
+   padding:1rem;
+   max-width:320px;}
 
  .proj-article:hover{
     transform:transalteY(-6px);
