@@ -45,7 +45,7 @@
    color:#700;
 }
 
-.portfolio-container{
+.project-container{
    display:flex;
    flex-wrap:wrap;
    gap:1.5rem;
